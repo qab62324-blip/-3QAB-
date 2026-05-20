@@ -10,7 +10,7 @@
 # The provenance file can be verified using https://github.com/slsa-framework/slsa-verifier.
 # For more information about SLSA and how it improves the supply-chain, visit slsa.dev.
 
-name: 𝑺𝑶𝑽𝑬𝑹𝑬𝑰𝑮𝑵 𝑿
+name: 3QAB 515🌍🦅
 on:
   workflow_dispatch:
   release:

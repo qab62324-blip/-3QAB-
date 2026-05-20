@@ -1,6 +1,6 @@
-# 🤖 𝑴𝑰𝑲𝑶 - Advanced WhatsApp Bot
+# 🤖3QAB 515🌍🦅 WhatsApp Bot
 
-**𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 𝑺𝑶𝑽𝑬𝑹𝑬𝑰𝑮𝑵 𝑿**
+**عقاب ءلغشيم**
 
 ## ✨ Features
 - **105 Real Working Commands**
@@ -165,9 +165,9 @@ Edit `config.js` to customize:
 - `.eval` - Execute code
 
 ## 👑 Developer
-- **𝑺𝑶𝑽𝑬𝑹𝑬𝑰𝑮𝑵 𝑿**
-- 📞 +974 3129 8191
-- 📞 +1 (303) 913-6516
+- **3QAB 515🌍🦅**
+- 📞 +201142182793
+- 📞 +201142182793
 
 ## 📢 Channel
 - **𝑺𝑶𝑽𝑬𝑹𝑬𝑰𝑮𝑵 𝑿**
